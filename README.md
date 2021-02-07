@@ -3,7 +3,7 @@
 
 <p>
   
-  <a href="https://github.com/anubhavv1998/CompilerDesign/blob/main/Questions%20CD.docx">
+  <a href="https://github.com/anubhavv1998/CompilerDesign/blob/main/Questions%20CD.docx" download>
   Question</a>
   <br>
   
